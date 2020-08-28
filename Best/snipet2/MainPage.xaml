@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="snipet2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:snipet2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Height="500">
+        <TextBlock Text="First" FontSize="30" />
+        <TextBlock Text="Second" FontSize="30" />
+        <TextBlock Text="Fourth" FontSize="30" />
+        <TextBox Width="100" Height="50"/>
+        <Button FontSize="34" Width="158" Height="80" Content="Sixth"/>
+        <StackPanel Height="200">
+        <Rectangle Fill="Red" Height="100"/>
+    </StackPanel>
+    </StackPanel>
+    
+</Page>
