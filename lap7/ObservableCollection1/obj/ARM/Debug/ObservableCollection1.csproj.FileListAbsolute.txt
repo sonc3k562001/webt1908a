@@ -1,0 +1,9 @@
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\ObservableCollection1.csprojAssemblyReference.cache
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\App.g.i.cs
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\App.g.cs
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\App.xaml
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\MainPage.xaml
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\App.xbf
+C:\Users\son10\source\repos\lap7\ObservableCollection1\obj\ARM\Debug\MainPage.xbf
