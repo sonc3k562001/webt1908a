@@ -31,11 +31,12 @@ namespace FakeNews
             NewsItems = new ObservableCollection<NewsItem>();
         }
 
-        private void HamburgerAlignment_Click(object sender, RoutedEventArgs e)
+        private void HamburgerButton_Click(object sender, RoutedEventArgs e)
         {
             MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
         }
-        private void ListBox_SelectionChanged(object sender,SelectionChangedEventArgs e)
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if(Financial.IsSelected)
             {
@@ -49,7 +50,7 @@ namespace FakeNews
             }
 
         }
-        
+
         private void Page_Loaded(object sender, RoutedEventArgs e)
         {
             Financial.IsSelected = true;

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{03CA7E33-26AD-4A83-8E3E-56FE7E0A11FC}</ProjectGuid>
+    <ProjectGuid>{327B9168-6DD6-407B-B85D-F777DF6F0A0E}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FakeNews</RootNamespace>
@@ -134,6 +134,16 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Financial1.png" />
+    <Content Include="Assets\Financial2.png" />
+    <Content Include="Assets\Financial3.png" />
+    <Content Include="Assets\Financial4.png" />
+    <Content Include="Assets\Financial5.png" />
+    <Content Include="Assets\Food1.png" />
+    <Content Include="Assets\Food2.png" />
+    <Content Include="Assets\Food3.png" />
+    <Content Include="Assets\Food4.png" />
+    <Content Include="Assets\Food5.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
