@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-13T09:06:58.974</Modified>
+      <Modified>2020-09-15T07:00:19.848</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\FakeNews.exe">
       <PackagePath>entrypoint\FakeNews.exe</PackagePath>
-      <Modified>2020-09-13T09:06:57.343</Modified>
+      <Modified>2020-09-15T07:00:18.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -130,15 +130,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-09-13T09:06:56.822</Modified>
+      <Modified>2020-09-15T07:00:18.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-13T09:06:56.822</Modified>
+      <Modified>2020-09-15T07:00:18.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\NewsItemControl.xbf">
       <PackagePath>NewsItemControl.xbf</PackagePath>
-      <Modified>2020-09-13T09:06:56.822</Modified>
+      <Modified>2020-09-15T07:00:18.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -150,7 +150,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\son10\source\repos\lap8\FakeNews\bin\x86\Debug\Core\FakeNews.exe">
       <PackagePath>FakeNews.exe</PackagePath>
-      <Modified>2020-09-13T09:06:58.956</Modified>
+      <Modified>2020-09-15T07:00:19.812</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
