@@ -1,0 +1,42 @@
+Hello 
+
+
+B1 : Tạo Project Asp .Net core Aplication(3.2) tên ContosoCrafts.
+B2 : Tạo foder Model: Controller , Models, Component and Services
+B3 : Trong wwwroot, tạo foder tên là data và add file products.json
+	-Trong Controller -> ProductController.cs
+	-Trong Models -> Product.cs
+	-Trong  Component -> ProductFileServices.cs
+B4 : Trong Product.cs tạo các thuộc tính của Object (Id,Maker, Image [JsonPropertyName="img"] -> Thuộc tính Image này được thêm từ file json có tên là "img", Url,Title,Descripton, Rating)
+	-Thêm lần lượt các thuộc tính và object Product từ Product.json
+
+B5 : Copy css thay thế File site.css
+
+B6: Trong file Index.cshtml -> sửa thẻ h1 ViewData["Title"]  => Cotose Craft để sửa tiêu đề và dòng chữ hiển thị trên trang 
+	+ <div class="card-img"> đặt background: url(@product.image)
+	+ Add @foreach để in ra màn hình thuộc tính trong Models.Products
+	+ Trong thẻ <h2> đặt thuộc tính Title
+	+ Add <script src="_famework/blazor.server.js"></script> => thêm thư viện js blazor
+B7: Tiếp theo vào trong File Index.cshtml.cs để thêm những method chạy 
+	+ ProductService để lấy dữ liệu từ file json.
+	+ Products là các thuộc tính của obj Product trong Model.
+	+ OnGet() để lấy phương thức getProducts() trong ProductService.
+B8: Trong ProductsController.cs:
+	+ add method get và AddRating(ProductId, Rating)
+B9: Trong JsonFileProductService.cs:
+	+ Add method get WebHostWnviroment.
+	+ Method String JsonFileName để lấy dữ liệu từ file Product.Json đổ về trang chính.
+B10: Trong Staup.cs thêm các phương thức vừa khời tạo vào
+	 public void ConfigureSevices(IServiceProductService services){
+		services.AddRazorPages();=> component(Productlist)
+		services.AddServerSideBlazor(); => ...
+		services.AddControllers(); => Controller(ProductController.cs)
+		services.AddTrasient<JsonFileProductService> => Sevices( JsonFileProductService.cs)
+	public void Configure (IApplicationBuilder app, IwebHostEnviroment env){
+		app.UerEndPoints(endpoints =>
+		{
+			endpoints.MapRazorPages();
+			endpoints.MapControllers();
+			endpoints.MapBlazorHub();
+		}); 
+	
