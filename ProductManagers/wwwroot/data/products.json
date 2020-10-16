@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "Name": "Iphone 1",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHozQCqTCLgYxbLSAONeUWYcs40OVzo1qMUQ&usqp=CAU",
+    "Price": 12.4
+  },
+  {
+    "Id": "jenlooper-light",
+    "Name": "Iphone 2",
+    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+    "Price": 24.3
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "Name": "Iphone 3",
+    "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+    "Price": 52.5
+  },
+  {
+    "Id": "jenlooper-survival",
+    "Name": "Iphone 4",
+    "img": "https://user-images.githubusercontent.com/41929050/61567051-13938600-aa33-11e9-8ae7-0b5c19aafab4.jpeg",
+    "Pricel": 23.5
+  },
+  {
+    "Id": "sailorhg-bubblesortpic",
+    "Name": "Iphone 5",
+    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
+    "Price": 24.5
+  },
+  {
+    "Id": "sailorhg-corsage",
+    "Name": "Iphone 6",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNeZkqVE5u8T2hrrh9Ph1griKGKN7xF_4Q9A&usqp=CAU",
+    "Price": 21.5
+  },
+  {
+    "Id": "sailorhg-kit",
+    "Name": "Iphone 7",
+    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png",
+    "Price": 95.2
+  },
+  {
+    "Id": "sailorhg-led",
+    "Name": "Iphone 8",
+    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg",
+    "Price": 78.5
+  },
+  {
+    "Id": "selinazawacki-soi-shirt",
+    "Name": "Iphone 9",
+    "img": "https://user-images.githubusercontent.com/41929050/61567060-142c1c80-aa33-11e9-8188-5a4803844a9e.png",
+    "Price": 67.4
+  },
+  {
+    "Id": "selinazawacki-soi-pins",
+    "Name": "Iphone X",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuJPWxEmQx7rdQegPai7ybc1nuQG0NfNIT2g&usqp=CAU",
+    "Price": 76.8
+  },
+  {
+    "Id": "vogueandcode-hipster-dev-bro",
+    "Name": "Iphone 10",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuJPWxEmQx7rdQegPai7ybc1nuQG0NfNIT2g&usqp=CAU",
+    "Price": 59.6
+  },
+  {
+    "Id": "vogueandcode-pretty-girls-code-tee",
+    "Name": "Iphone 11",
+    "img": "https://user-images.githubusercontent.com/41929050/61567062-14c4b300-aa33-11e9-9dcd-8bfed4ece810.png",
+    "Price": 12
+  },
+  {
+    "Id": "vogueandcode-ruby-sis-2",
+    "Name": "Iphone 12",
+    "img": "https://user-images.githubusercontent.com/41929050/61567063-14c4b300-aa33-11e9-8515-bcb866da9ea3.png",
+    "Price": 54
+  },
+  {
+    "Id": "selinazawacki-moon",
+    "Name": "Iphone 13",
+    "img": "https://user-images.githubusercontent.com/41929050/61567057-142c1c80-aa33-11e9-9781-9e442418eaab.png",
+    "Price": 78
+  },
+  {
+    "Id": "selinazawacki-shirt",
+    "Name": "Iphone 14",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "Price": 11
+  }
+]
