@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZVf/UhpPX3pT5Ckqtl/KhnGE92AVswdQ3jKi1/czXWIfBGB+0S7FesDvbr1vclOfURu26ZNku+PxMtomiq14yw==",
+  "dgSpecHash": "LiHMGNPMsY+lzWOscfdvBQpSSd0clmubSnhdgJV8OUiplLfAu4nNChhHSYrtfO65WQvAHC0dEYhpWRZuXT16Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\son10\\OneDrive\\Máy tính\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
+  "projectFilePath": "C:\\Users\\son10\\OneDrive\\Tài liệu\\GitHub\\webt1908a\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\son10\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\son10\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

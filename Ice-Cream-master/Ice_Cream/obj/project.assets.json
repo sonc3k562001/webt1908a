@@ -5768,11 +5768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\son10\\OneDrive\\Máy tính\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
+      "projectUniqueName": "C:\\Users\\son10\\OneDrive\\Tài liệu\\GitHub\\webt1908a\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
       "projectName": "Ice_Cream",
-      "projectPath": "C:\\Users\\son10\\OneDrive\\Máy tính\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
+      "projectPath": "C:\\Users\\son10\\OneDrive\\Tài liệu\\GitHub\\webt1908a\\Ice-Cream-master\\Ice_Cream\\Ice_Cream.csproj",
       "packagesPath": "C:\\Users\\son10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\son10\\OneDrive\\Máy tính\\Ice-Cream-master\\Ice_Cream\\obj\\",
+      "outputPath": "C:\\Users\\son10\\OneDrive\\Tài liệu\\GitHub\\webt1908a\\Ice-Cream-master\\Ice_Cream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
